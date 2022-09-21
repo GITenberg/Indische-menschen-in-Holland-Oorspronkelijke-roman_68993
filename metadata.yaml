@@ -1,0 +1,29 @@
+_repo: Indische-menschen-in-Holland-Oorspronkelijke-roman_68993
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wagenvoort, Maurits
+    birthdate: 1859
+    deathdate: 1944
+    gutenberg_agent_id: '39553'
+    url: http://www.gutenberg.org/2009/agents/39553
+description: ''
+gutenberg_issued: '2022-09-15'
+identifiers:
+  gutenberg: '68993'
+language: nl
+pgterms:marc904: https://books.google.com/books?id=aQVWAAAAcAAJ
+pgterms:marc905: 20180929115424mauritspse
+pgterms:marc906: '1890'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg (This book was produced from scanned
+  images of public domain material from the Google Books project.)
+publication_note: Netherlands :A.W. Sijthoff,1890.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Indische menschen in Holland: Oorspronkelijke roman'
+url: http://www.gutenberg.org/ebooks/68993
